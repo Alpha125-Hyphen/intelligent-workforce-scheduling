@@ -1,0 +1,2 @@
+swap_id,requester_employee_id,target_employee_id,requester_assignment_id,target_assignment_id,status,manager_approved,requested_at,decided_at,issue_type
+SWP-2026-000001,EMP-000001,EMP-000101,ASG-00000001,ASG-00000002,APPLIED,0,2026-01-01 10:00:00,2026-01-01 11:00:00,SWAP_WITHOUT_APPROVAL

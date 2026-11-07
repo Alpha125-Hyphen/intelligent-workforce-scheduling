@@ -1,0 +1,14 @@
+{
+  "coverage_percentage": 100.0,
+  "coverage_gap_records": 0,
+  "employees": 2000,
+  "teams": 100,
+  "leave_requests_including_injected_case": 5000,
+  "shift_assignments_including_anomalies": 81003,
+  "attendance_events": 158710,
+  "detected_double_bookings": 1,
+  "detected_approved_leave_conflicts": 1,
+  "detected_missing_skills": 1,
+  "detected_overtime_violations": 1,
+  "detected_unauthorized_swaps": 1
+}

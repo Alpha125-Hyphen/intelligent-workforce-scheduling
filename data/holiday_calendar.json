@@ -1,0 +1,20 @@
+[
+  {
+    "holiday_id":"HOL-001",
+    "holiday_date":"2026-01-26",
+    "holiday_name":"Republic Day",
+    "region":"India"
+  },
+  {
+    "holiday_id":"HOL-002",
+    "holiday_date":"2026-08-15",
+    "holiday_name":"Independence Day",
+    "region":"India"
+  },
+  {
+    "holiday_id":"HOL-003",
+    "holiday_date":"2026-10-02",
+    "holiday_name":"Gandhi Jayanti",
+    "region":"India"
+  }
+]

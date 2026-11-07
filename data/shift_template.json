@@ -1,0 +1,23 @@
+[
+  {
+    "template_id":"TPL-M",
+    "shift_name":"MORNING",
+    "start_time":"06:00",
+    "end_time":"14:00",
+    "duration_hours":8.0
+  },
+  {
+    "template_id":"TPL-E",
+    "shift_name":"EVENING",
+    "start_time":"14:00",
+    "end_time":"22:00",
+    "duration_hours":8.0
+  },
+  {
+    "template_id":"TPL-N",
+    "shift_name":"NIGHT",
+    "start_time":"22:00",
+    "end_time":"06:00",
+    "duration_hours":8.0
+  }
+]

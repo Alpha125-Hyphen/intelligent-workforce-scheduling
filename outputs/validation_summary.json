@@ -1,0 +1,16 @@
+{
+  "duplicate_employee_ids": 0,
+  "orphan_assignments": 0,
+  "invalid_leave_dates": 0,
+  "double_bookings": 1,
+  "approved_leave_conflicts": 1,
+  "missing_skill_assignments": 1,
+  "overtime_cap_violations": 1,
+  "unauthorized_applied_swaps": 1,
+  "employees": 2000,
+  "teams": 100,
+  "leave_requests": 5000,
+  "assignments": 81003,
+  "coverage_requirements": 54000,
+  "attendance_events": 158710
+}

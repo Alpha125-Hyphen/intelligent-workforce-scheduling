@@ -1,0 +1,101 @@
+team_id,team_name,department
+TEAM-001,Team 001,IT Services
+TEAM-002,Team 002,Quality
+TEAM-003,Team 003,IT Services
+TEAM-004,Team 004,Customer Support
+TEAM-005,Team 005,Operations
+TEAM-006,Team 006,Customer Support
+TEAM-007,Team 007,Customer Support
+TEAM-008,Team 008,Customer Support
+TEAM-009,Team 009,Operations
+TEAM-010,Team 010,Quality
+TEAM-011,Team 011,Customer Support
+TEAM-012,Team 012,Operations
+TEAM-013,Team 013,Customer Support
+TEAM-014,Team 014,Customer Support
+TEAM-015,Team 015,IT Services
+TEAM-016,Team 016,Quality
+TEAM-017,Team 017,Operations
+TEAM-018,Team 018,Customer Support
+TEAM-019,Team 019,Customer Support
+TEAM-020,Team 020,Quality
+TEAM-021,Team 021,Operations
+TEAM-022,Team 022,Customer Support
+TEAM-023,Team 023,Quality
+TEAM-024,Team 024,Logistics
+TEAM-025,Team 025,Operations
+TEAM-026,Team 026,Quality
+TEAM-027,Team 027,Operations
+TEAM-028,Team 028,IT Services
+TEAM-029,Team 029,Customer Support
+TEAM-030,Team 030,Quality
+TEAM-031,Team 031,IT Services
+TEAM-032,Team 032,Logistics
+TEAM-033,Team 033,Operations
+TEAM-034,Team 034,Operations
+TEAM-035,Team 035,Customer Support
+TEAM-036,Team 036,Customer Support
+TEAM-037,Team 037,Logistics
+TEAM-038,Team 038,Operations
+TEAM-039,Team 039,Operations
+TEAM-040,Team 040,Quality
+TEAM-041,Team 041,Customer Support
+TEAM-042,Team 042,Quality
+TEAM-043,Team 043,Quality
+TEAM-044,Team 044,IT Services
+TEAM-045,Team 045,Operations
+TEAM-046,Team 046,Customer Support
+TEAM-047,Team 047,Logistics
+TEAM-048,Team 048,Quality
+TEAM-049,Team 049,Logistics
+TEAM-050,Team 050,Operations
+TEAM-051,Team 051,Logistics
+TEAM-052,Team 052,Logistics
+TEAM-053,Team 053,Operations
+TEAM-054,Team 054,Customer Support
+TEAM-055,Team 055,Logistics
+TEAM-056,Team 056,Quality
+TEAM-057,Team 057,Customer Support
+TEAM-058,Team 058,Operations
+TEAM-059,Team 059,Operations
+TEAM-060,Team 060,IT Services
+TEAM-061,Team 061,Operations
+TEAM-062,Team 062,IT Services
+TEAM-063,Team 063,Quality
+TEAM-064,Team 064,Customer Support
+TEAM-065,Team 065,Operations
+TEAM-066,Team 066,Operations
+TEAM-067,Team 067,Operations
+TEAM-068,Team 068,Logistics
+TEAM-069,Team 069,Customer Support
+TEAM-070,Team 070,Quality
+TEAM-071,Team 071,Logistics
+TEAM-072,Team 072,Logistics
+TEAM-073,Team 073,Operations
+TEAM-074,Team 074,Quality
+TEAM-075,Team 075,Operations
+TEAM-076,Team 076,IT Services
+TEAM-077,Team 077,Operations
+TEAM-078,Team 078,Quality
+TEAM-079,Team 079,Logistics
+TEAM-080,Team 080,Operations
+TEAM-081,Team 081,Logistics
+TEAM-082,Team 082,Operations
+TEAM-083,Team 083,Customer Support
+TEAM-084,Team 084,Operations
+TEAM-085,Team 085,Customer Support
+TEAM-086,Team 086,IT Services
+TEAM-087,Team 087,Quality
+TEAM-088,Team 088,Quality
+TEAM-089,Team 089,Quality
+TEAM-090,Team 090,IT Services
+TEAM-091,Team 091,Operations
+TEAM-092,Team 092,IT Services
+TEAM-093,Team 093,Logistics
+TEAM-094,Team 094,Operations
+TEAM-095,Team 095,Operations
+TEAM-096,Team 096,Operations
+TEAM-097,Team 097,IT Services
+TEAM-098,Team 098,Quality
+TEAM-099,Team 099,Quality
+TEAM-100,Team 100,Operations

@@ -1,0 +1,39 @@
+[
+  {
+    "issue_id": "GT-001",
+    "issue_type": "DOUBLE_BOOKING",
+    "record_id": "ANOM-DOUBLE-BOOK-001",
+    "employee_id": "EMP-000001",
+    "expected_result": "FLAGGED"
+  },
+  {
+    "issue_id": "GT-002",
+    "issue_type": "APPROVED_LEAVE_OVERLAP",
+    "record_id": "LVE-2026-ANOM-000001",
+    "employee_id": "EMP-000101",
+    "assignment_id": "ASG-00000002",
+    "expected_result": "FLAGGED"
+  },
+  {
+    "issue_id": "GT-003",
+    "issue_type": "MISSING_REQUIRED_SKILL",
+    "record_id": "ANOM-MISSING-SKILL-001",
+    "employee_id": "EMP-000001",
+    "expected_result": "FLAGGED"
+  },
+  {
+    "issue_id": "GT-004",
+    "issue_type": "OVERTIME_CAP_EXCEEDED",
+    "record_id": "ANOM-OVERTIME-001",
+    "employee_id": "EMP-000004",
+    "weekly_hours_recorded": 56,
+    "weekly_hour_cap": 48,
+    "expected_result": "FLAGGED"
+  },
+  {
+    "issue_id": "GT-005",
+    "issue_type": "SWAP_WITHOUT_APPROVAL",
+    "record_id": "SWP-2026-000001",
+    "expected_result": "FLAGGED"
+  }
+]

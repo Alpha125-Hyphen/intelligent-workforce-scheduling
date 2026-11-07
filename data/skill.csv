@@ -1,0 +1,9 @@
+skill_id,skill_name,description
+SKL-001,Operations,Synthetic skill: Operations
+SKL-002,Python,Synthetic skill: Python
+SKL-003,SQL,Synthetic skill: SQL
+SKL-004,Cloud,Synthetic skill: Cloud
+SKL-005,Networking,Synthetic skill: Networking
+SKL-006,Customer Support,Synthetic skill: Customer Support
+SKL-007,Quality Assurance,Synthetic skill: Quality Assurance
+SKL-008,Safety,Synthetic skill: Safety

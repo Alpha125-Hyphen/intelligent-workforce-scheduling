@@ -1,0 +1,42 @@
+[
+  {
+    "skill_id":"SKL-001",
+    "skill_name":"Operations",
+    "description":"Synthetic skill: Operations"
+  },
+  {
+    "skill_id":"SKL-002",
+    "skill_name":"Python",
+    "description":"Synthetic skill: Python"
+  },
+  {
+    "skill_id":"SKL-003",
+    "skill_name":"SQL",
+    "description":"Synthetic skill: SQL"
+  },
+  {
+    "skill_id":"SKL-004",
+    "skill_name":"Cloud",
+    "description":"Synthetic skill: Cloud"
+  },
+  {
+    "skill_id":"SKL-005",
+    "skill_name":"Networking",
+    "description":"Synthetic skill: Networking"
+  },
+  {
+    "skill_id":"SKL-006",
+    "skill_name":"Customer Support",
+    "description":"Synthetic skill: Customer Support"
+  },
+  {
+    "skill_id":"SKL-007",
+    "skill_name":"Quality Assurance",
+    "description":"Synthetic skill: Quality Assurance"
+  },
+  {
+    "skill_id":"SKL-008",
+    "skill_name":"Safety",
+    "description":"Synthetic skill: Safety"
+  }
+]

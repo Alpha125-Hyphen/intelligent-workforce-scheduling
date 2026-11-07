@@ -1,0 +1,3 @@
+-- The canonical schema is maintained in src/schema.py.
+-- To create a database, run: python main.py
+-- The program creates workforce.db and exports outputs/database_dump.sql.
